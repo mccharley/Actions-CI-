@@ -1,1 +1,1 @@
-console.log(juster)
+console.log(just in)
