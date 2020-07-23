@@ -1,1 +1,1 @@
-console.log(just)
+console.log(juster)
