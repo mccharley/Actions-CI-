@@ -1,1 +1,1 @@
-console.log(any now now)
+console.log(any none)
