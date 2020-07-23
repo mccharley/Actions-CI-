@@ -1,1 +1,1 @@
-console.log(just in)
+console.log(just ini)
