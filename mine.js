@@ -1,1 +1,1 @@
-console.log(anyNone  bn  b nnmnatall).   
+console.log(anyNone  bn mklnatall).   
