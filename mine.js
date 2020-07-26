@@ -1,1 +1,1 @@
-console.log(anyNone ft).   
+console.log(anyNo).   
