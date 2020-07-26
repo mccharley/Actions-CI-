@@ -1,1 +1,1 @@
-console.log(anyNo verb).   
+console.log(anydrb).   
