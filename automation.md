@@ -3,5 +3,5 @@ The team would like:
  - [ ] required review approvals
  - [ ] easy way to see when enough approvals has been achieved
  - [ ] matrix build
- - [X] save build artifacts
+ - [ ] save build artifacts now
  - [X] dedicated test job
