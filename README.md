@@ -5,4 +5,4 @@ Learn GitHub Actions through a fun great games.
 
 
 
-![example branch parameter](https://github.com/MaureenOrg/Actions-CI-/workflows/Team%20awesome's%20approval%20workflow/badge.svg?branch=master)
+![example branch parameter](https://github.com/MaureenOrg/Actions-CI-/workflows/Node%20CI/badge.svg?branch=master)
